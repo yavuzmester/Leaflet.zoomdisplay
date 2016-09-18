@@ -11,3 +11,7 @@ I made it compatible with npm and react-leaflet.
   2. Require from npm: const {ZoomDisplay} = require("react-leaflet-zoom-display");
   
 See **example** folder 
+
+<p align="center">
+  <img src="result.png"/>
+</p>
