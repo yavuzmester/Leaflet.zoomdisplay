@@ -3,7 +3,7 @@
     "version": "1.0.0",
     "private": true,
     "dependencies": {
-        "react-leaflet-zoom-display": "0.0.1"
+        "react-leaflet-zoom-display": "0.0.5"
     },
     "peerDependencies": {
         "react": "15.0.2",

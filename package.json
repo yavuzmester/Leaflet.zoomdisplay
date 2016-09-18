@@ -1,6 +1,6 @@
 {
     "name": "react-leaflet-zoom-display",
-    "version": "0.0.3",
+    "version": "0.0.5",
     "description": "zoom display for leaflet maps (powered by react-leaflet)",
     "repository": {
         "type": "git",
@@ -10,13 +10,7 @@
         "react": "^15.0.2",
         "react-dom": "^15.0.2",
         "leaflet": "^0.7.7",
-        "react-leaflet": "^0.12.2",
-        "browserify": "^13.0.0",
-        "babelify": "^7.3.0",
-        "babel-preset-react": "^6.3.13"
-    },
-    "browserify": {
-        "transform": [["babelify", {"presets": ["react"]}]]
+        "react-leaflet": "^0.12.2"
     },
     "author": "Yavuz Mester",
     "license": "MIT"
