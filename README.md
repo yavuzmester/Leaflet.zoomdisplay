@@ -13,5 +13,5 @@ I made it compatible with npm and react-leaflet.
 See **example** folder 
 
 <p align="center">
-  <img src="result.png"/>
+  <img src="example/result.png"/>
 </p>
