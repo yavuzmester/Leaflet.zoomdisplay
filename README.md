@@ -1,12 +1,13 @@
 Leaflet.zoomdisplay
 ===================
 
-Leaflet.zoomdisplay is a plugin that displays the current zoom level of the map.
+Forked from [here] (http://azavea.github.com/Leaflet.zoomdisplay/).
 
-[See a demo](http://azavea.github.com/Leaflet.zoomdisplay/)
+I made it compatible with npm and react-leaflet.
 
 ## Usage
 
-  1. Add a `<script>` tag to your map page referencing the javascript.
-  2. Add a `<link>` tag to your map page referencing the stylesheet
-  3. There is no step three.
+  1. Add a `<link>` tag to your page referencing the stylesheet 
+  2. Require from npm: const {ZoomDisplay} = require("react-leaflet-zoom-display");
+  
+See **example** folder 
