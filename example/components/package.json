@@ -2,9 +2,6 @@
     "name": "components",
     "version": "1.0.0",
     "private": true,
-    "dependencies": {
-        "react-leaflet-zoom-display": "0.0.5"
-    },
     "peerDependencies": {
         "react": "15.0.2",
         "react-dom": "15.0.2",
@@ -13,6 +10,9 @@
         "browserify": "13.0.0",
         "babelify": "7.3.0",
         "babel-preset-react": "6.3.13"
+    },
+    "dependencies": {
+        "react-leaflet-zoom-display": "0.0.5"
     },
     "browserify": {
         "transform": [["babelify", {"presets": ["react"]}]]

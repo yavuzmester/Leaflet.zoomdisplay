@@ -1,7 +1,8 @@
 {
     "name": "react-leaflet-zoom-display",
-    "version": "0.0.5",
-    "description": "zoom display for leaflet maps (powered by react-leaflet)",
+    "version": "0.0.6",
+    "description": "zoom display plugin for leaflet maps (powered by react-leaflet)",
+    "keywords": ["react", "leaflet", "zoom", "display", "plugin"],
     "repository": {
         "type": "git",
         "url": "https://github.com/yavuzmester/react-leaflet-zoom-display"
