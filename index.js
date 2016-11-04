@@ -1,7 +1,7 @@
 "use strict";
 
 const React = require("react");
-const {MapControl} = require("react-leaflet");
+const {MapControl} = require("@yavuzmester/react-leaflet");
 const {control, DomUtil} = require("leaflet");
 const ReactDOM = require("react-dom");
 

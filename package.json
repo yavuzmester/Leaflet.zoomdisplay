@@ -1,6 +1,6 @@
 {
     "name": "react-leaflet-zoom-display",
-    "version": "0.0.12",
+    "version": "0.0.13",
     "files": ["index.js", "dist/react.leaflet.zoomdisplay.css"],
     "description": "zoom display plugin for leaflet maps (powered by react-leaflet)",
     "keywords": ["react", "leaflet", "zoom", "display", "plugin"],
