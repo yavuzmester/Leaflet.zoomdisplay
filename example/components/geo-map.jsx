@@ -2,7 +2,7 @@
 
 const React = require("react"),
     {Component} = React;
-const ReactLeaflet = require("@yavuzmester/react-leaflet"),
+const ReactLeaflet = require("react-leaflet"),
     {Map, TileLayer} = ReactLeaflet;
 const ZoomDisplay = require("react-leaflet-zoom-display");
 

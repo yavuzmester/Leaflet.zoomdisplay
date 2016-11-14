@@ -1,6 +1,6 @@
 {
     "name": "react-leaflet-zoom-display",
-    "version": "0.0.16",
+    "version": "0.0.18",
     "files": ["index.js", "dist/react.leaflet.zoomdisplay.css"],
     "description": "zoom display plugin for leaflet maps (powered by react-leaflet)",
     "keywords": ["react", "leaflet", "zoom", "display", "plugin"],
@@ -12,15 +12,7 @@
         "leaflet": "^0.7.7",
         "react": "^15.0.2",
         "react-dom": "^15.0.2",
-        "@yavuzmester/react-leaflet": "0.12.3-try4"
-    },
-    "browserify-shim": {
-        "leaflet": "global:L",
-        "react": "global:React",
-        "react-dom": "global:ReactDOM"
-    },
-    "browserify": {
-        "transform": ["browserify-shim"]
+        "react-leaflet": "0.12.3"
     },
     "author": "Yavuz Mester",
     "license": "MIT"
